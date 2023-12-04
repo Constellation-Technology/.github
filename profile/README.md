@@ -29,7 +29,7 @@ We believe in a collaborative and client-centric approach. Here's how we work wi
 
 ## Contact Us
 
-We look forward to the opportunity to work with you. If you have any inquiries or would like to discuss how Constellation-Technology can support your business, please reach out to us at personas@constellation.es.
+We look forward to the opportunity to work with you. If you have any inquiries or would like to discuss how Constellation-Technology can support your business, please reach out to us at administracion@contellation.es.
 
 
 ## License
